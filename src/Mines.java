@@ -1,6 +1,6 @@
 
 
-public class Mine {
+public class Mines {
 
     public static void main(String[] args) {
 
